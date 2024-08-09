@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88729ebd-e419-4806-a942-e619d3c496d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task1_NavigateToURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task2_OpenChromeBrowserTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task3_OpenFirefoxBrowserTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task1_FindElementByIdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task2_FindElementByClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task1_FIndElementByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task2_FindElementByPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByCssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task4_FindElementByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task1_FindElementByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task2_FindElementByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task3_FindElementByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task4_FindElementByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task5_FindElementByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task6_FindElementByXpath.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kQolNjQItof58xM7E4bq2PVVpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MohamedNheri(US)/IdeaProjects/SeleniumWebDriversExercises/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MohamedNheri(US)\IdeaProjects\SeleniumWebDriversExercises\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day4_advanded_locators_xpath" />
+      <recent name="day3_functions_and_more_locators" />
+      <recent name="day2_basic_functions_locators" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88729ebd-e419-4806-a942-e619d3c496d5" name="Changes" comment="" />
+      <created>1723225316565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723225316565</updated>
+    </task>
+    <servers />
+  </component>
+</project>
