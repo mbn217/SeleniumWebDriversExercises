@@ -4,31 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88729ebd-e419-4806-a942-e619d3c496d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task1_NavigateToURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task2_OpenChromeBrowserTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task3_OpenFirefoxBrowserTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task1_FindElementByIdTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task2_FindElementByClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task1_FIndElementByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task2_FindElementByPartialLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByCssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task4_FindElementByTagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task1_FindElementByXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task2_FindElementByXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task3_FindElementByXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task4_FindElementByXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task5_FindElementByXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day4_advanded_locators_xpath/Task6_FindElementByXpath.java" afterDir="false" />
+    <list default="true" id="88729ebd-e419-4806-a942-e619d3c496d5" name="Changes" comment="Adding solution for a task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task1_NavigateToURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task1_NavigateToURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task2_OpenChromeBrowserTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task2_OpenChromeBrowserTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task3_OpenFirefoxBrowserTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day1_intro_to_selenium/Task3_OpenFirefoxBrowserTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task1_FindElementByIdTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task1_FindElementByIdTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task2_FindElementByClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day2_basic_functions_locators/Task2_FindElementByClassName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task1_FIndElementByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task1_FIndElementByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task2_FindElementByPartialLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task2_FindElementByPartialLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByCssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task4_FindElementByCssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByLinkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task3_FindElementByLinkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task4_FindElementByTagName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day3_functions_and_more_locators/Task5_FindElementByTagName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="solutions" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -58,6 +50,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Task1_FIndElementByName.executor": "Run",
+    "Application.Task2_FindElementByPartialLinkText.executor": "Run",
+    "Application.Task4_FindElementByCssSelector.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
@@ -74,6 +69,56 @@
       <recent name="day2_basic_functions_locators" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.Task4_FindElementByCssSelector">
+    <configuration name="Task1_FIndElementByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_functions_and_more_locators.Task1_FIndElementByName" />
+      <module name="SeleniumWebDriversExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3_functions_and_more_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_FindElementByPartialLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_functions_and_more_locators.Task2_FindElementByPartialLinkText" />
+      <module name="SeleniumWebDriversExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3_functions_and_more_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_FindElementByCssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_functions_and_more_locators.Task4_FindElementByCssSelector" />
+      <module name="SeleniumWebDriversExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3_functions_and_more_locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task4_FindElementByCssSelector" />
+        <item itemvalue="Application.Task2_FindElementByPartialLinkText" />
+        <item itemvalue="Application.Task1_FIndElementByName" />
+        <item itemvalue="Application.Task4_FindElementByCssSelector" />
+        <item itemvalue="Application.Task2_FindElementByPartialLinkText" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,6 +128,60 @@
       <option name="presentableId" value="Default" />
       <updated>1723225316565</updated>
     </task>
+    <task id="LOCAL-00001" summary="first set of selenium webdriver exercises">
+      <option name="closed" value="true" />
+      <created>1723228012308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723228012308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding solution for a task">
+      <option name="closed" value="true" />
+      <created>1723228608913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723228608913</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding solution for a task">
+      <option name="closed" value="true" />
+      <created>1723228703064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723228703064</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding solution for a task">
+      <option name="closed" value="true" />
+      <created>1723228997142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723228997143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding solution for a task">
+      <option name="closed" value="true" />
+      <created>1723230111393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723230111393</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding solution for a task">
+      <option name="closed" value="true" />
+      <created>1723230960418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723230960418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first set of selenium webdriver exercises" />
+    <MESSAGE value="Adding solution for a task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding solution for a task" />
   </component>
 </project>
