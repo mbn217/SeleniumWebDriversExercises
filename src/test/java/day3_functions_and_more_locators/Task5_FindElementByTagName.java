@@ -1,6 +1,6 @@
 package day3_functions_and_more_locators;
 
-public class Task4_FindElementByTagName {
+public class Task5_FindElementByTagName {
 
     /**
      * Task 4: Find Element By Tag Name

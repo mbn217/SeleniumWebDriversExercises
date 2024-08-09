@@ -8,6 +8,7 @@ public class Task2_FindElementByPartialLinkText {
      * 2. Go to https://www.facebook.com
      * 3. Find the element for the "Forgot account?" link by Partial Link Text
      * 4. Click on the "Forgot account?" link
+     * 5. Close the browser
      *
      */
 }

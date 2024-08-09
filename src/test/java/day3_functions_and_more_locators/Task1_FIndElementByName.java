@@ -9,5 +9,6 @@ public class Task1_FIndElementByName {
      * 2. Go to https://www.facebook.com
      * 3. Find the element for the email box by Name
      * 4. Enter "Hello World" in the email box
+     * 5. Close the browser
      */
 }

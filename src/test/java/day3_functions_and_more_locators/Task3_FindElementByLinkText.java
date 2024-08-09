@@ -8,5 +8,6 @@ public class Task3_FindElementByLinkText {
      * 2. Go to https://www.facebook.com
      * 3. Find the element for the "Forgot account?" link by Link Text
      * 4. Click on the "Forgot account?" link
+     * 5. Close the browser
      */
 }

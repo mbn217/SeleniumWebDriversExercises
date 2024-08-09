@@ -9,5 +9,6 @@ public class Task1_FindElementByIdTask {
      * 2. Go to https://www.google.com
      * 3. Find the element for the searchBox by ID
      * 4. Enter "Hello World" in the searchBox
+     * 5. Close the browser
      */
 }
