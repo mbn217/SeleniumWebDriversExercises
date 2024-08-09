@@ -1,4 +1,4 @@
-package day4_advanded_locators_xpath;
+package day4_advanced_locators_xpath;
 
 public class Task3_FindElementByXpath {
 
