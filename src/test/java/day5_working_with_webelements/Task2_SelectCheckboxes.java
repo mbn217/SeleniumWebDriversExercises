@@ -1,9 +1,9 @@
 package day5_working_with_webelements;
 
-public class SelectCheckboxes {
+public class Task2_SelectCheckboxes {
 
         /**
-        * Task 5: Select Checkboxes
+        * Task 2: Select Checkboxes
         * 1. Open Chrome browser
         * 2. Go to http://practice.primetech-apps.com/practice/check-box
         * 3. Find the checkbox element for "Java" by Xpath

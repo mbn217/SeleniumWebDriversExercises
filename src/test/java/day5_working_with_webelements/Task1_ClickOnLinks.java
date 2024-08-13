@@ -1,9 +1,9 @@
 package day5_working_with_webelements;
 
-public class ClickOnLinks {
+public class Task1_ClickOnLinks {
 
     /**
-     * Task 5: Click on Links
+     * Task 1: Click on Links
      * 1. Open Chrome browser
      * 2. Go to http://practice.primetech-apps.com/practice/links
      * 3. Find the link element for "Amazon Home page" by Xpath
