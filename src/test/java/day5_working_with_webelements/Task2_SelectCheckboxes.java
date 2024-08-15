@@ -12,6 +12,10 @@ public class Task2_SelectCheckboxes {
         * 6. Click on the checkbox for "JavaScript"
         * 7. Find the checkbox element for "Python" by Xpath
         * 8. Click on the checkbox for "Python"
-        * 9. Close the browser
+        * 9. Check if the checkboxes are selected
+         * 10. Check if the label "Languages" is displayed
+         * 11. Close the browser
         */
+
+
 }
