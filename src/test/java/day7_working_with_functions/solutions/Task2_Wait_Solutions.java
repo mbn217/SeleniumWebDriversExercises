@@ -1,6 +1,6 @@
 package day7_working_with_functions.solutions;
 
-public class Task3_Wait_Solutions {
+public class Task2_Wait_Solutions {
 
     /**
      * Task 3: Using Waits
