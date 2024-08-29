@@ -37,5 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store!/.idea/
 !/.idea/git_toolbox_blame.xml
-
+.idea/workspace.xml
 !/.idea/git_toolbox_prj.xml
