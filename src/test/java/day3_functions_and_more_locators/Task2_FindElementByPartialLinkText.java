@@ -1,5 +1,10 @@
 package day3_functions_and_more_locators;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 public class Task2_FindElementByPartialLinkText {
 
     /**
