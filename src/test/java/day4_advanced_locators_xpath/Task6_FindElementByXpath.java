@@ -11,6 +11,5 @@ public class Task6_FindElementByXpath {
      * 5. Find the element for the "Select your favorite City" dropdown by Xpath
      * 6. Select your favorite City from the dropdown
      * 7. Close the browser
-     *
      */
 }

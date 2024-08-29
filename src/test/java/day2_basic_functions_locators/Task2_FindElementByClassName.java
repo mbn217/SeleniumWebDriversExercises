@@ -14,6 +14,7 @@ public class Task2_FindElementByClassName {
      * 2. Go to https://www.yahoo.com
      * 3. Find the element for the searchBox by Class Name
      * 4. Enter "Hello World" in the searchBox
+     * 5. Close the browser
      */
 
     public static void main(String[] args) {
