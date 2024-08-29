@@ -1,6 +1,6 @@
 package day7_working_with_functions;
 
-public class Task3_Wait {
+public class Task2_Wait {
 
     /**
      * Task 3: Using Waits
