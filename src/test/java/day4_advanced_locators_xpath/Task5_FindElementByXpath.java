@@ -1,5 +1,11 @@
 package day4_advanced_locators_xpath;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 public class Task5_FindElementByXpath {
 
     /**
@@ -23,4 +29,31 @@ public class Task5_FindElementByXpath {
      * 17. Find the element for the "Submit" button by Xpath
      * 18. Click on the "Submit" button
      */
+    public static void main(String[] args) {
+
+        WebDriver driver  = new ChromeDriver();
+        driver.get("http://practice.primetech-apps.com/practice/practice-forms");
+        WebElement firstName = driver.findElement(By.xpath("//input[@id='firstName']"));
+        firstName.sendKeys("John");
+        WebElement lastName = driver.findElement(By.xpath("//input[@id='lastName']"));
+        lastName.sendKeys("Stewart");
+        WebElement address = driver.findElement(By.xpath("//input[@id='address']"));
+        address.sendKeys("123 Main St");
+        WebElement city = driver.findElement(By.xpath("//input[@id='city']"));
+        city.sendKeys("New York");
+        WebElement state = driver.findElement(By.xpath("//select[@id='state']"));
+        state.sendKeys("New York");
+        WebElement zipCode = driver.findElement(By.xpath("//input[@id='zipCode']"));
+        zipCode.sendKeys("10001");
+        driver.findElement(By.xpath("//html")).sendKeys(Keys.DOWN);
+        driver.findElement(By.xpath("//html")).sendKeys(Keys.DOWN);
+        driver.findElement(By.xpath("//html")).sendKeys(Keys.DOWN);
+        driver.findElement(By.xpath("//html")).sendKeys(Keys.DOWN);
+        WebElement genderFemale= driver.findElement(By.xpath("//label[@for='female']"));
+        genderFemale.click();
+        WebElement submit = driver.findElement(By.xpath("//button[@type='submit']"));
+        submit.click();
+
+    }
+
 }

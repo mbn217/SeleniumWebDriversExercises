@@ -17,6 +17,5 @@ public class Task4_FindElementByXpath {
      * 11. Find the element for the clear button by Xpath
      * 12. Click on the clear button
      * 13. Close the browser
-     *
      */
 }
